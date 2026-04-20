@@ -6,5 +6,6 @@
     "nicer-checkboxes",
     "enlarge-image-on-hover",
     "bullet-point-relationship-lines"
-  ]
+  ],
+  "cssTheme": "Minimal"
 }
