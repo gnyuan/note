@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "./assets/${noteFileName}",
+  "attachmentFolderPath": "assets/${noteFileName}",
   "attachmentRenameMode": "All",
   "collectAttachmentUsedByMultipleNotesMode": "Skip",
   "collectedAttachmentFileName": "",
@@ -19,7 +19,7 @@
   "renamedAttachmentFileName": "",
   "shouldDeleteOrphanAttachments": false,
   "shouldHandleRenames": true,
-  "shouldRenameAttachmentFiles": false,
+  "shouldRenameAttachmentFiles": true,
   "shouldRenameAttachmentFolder": true,
   "shouldRenameCollectedAttachments": false,
   "specialCharacters": "#^[]|*\\<>:?/",
