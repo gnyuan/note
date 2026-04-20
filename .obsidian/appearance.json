@@ -1,1 +1,10 @@
-{}
+{
+  "enabledCssSnippets": [
+    "tag-pills",
+    "stylish-blockquotes",
+    "smaller-scrollbar",
+    "nicer-checkboxes",
+    "enlarge-image-on-hover",
+    "bullet-point-relationship-lines"
+  ]
+}
