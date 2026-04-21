@@ -2,5 +2,9 @@
   "obsidian-git",
   "obsidian-custom-attachment-location",
   "obsidian-excalidraw-plugin",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "dataview",
+  "omnisearch",
+  "quickadd",
+  "templater-obsidian"
 ]
